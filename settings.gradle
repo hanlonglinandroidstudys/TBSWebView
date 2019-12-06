@@ -1,0 +1,2 @@
+include ':app', ':tbsbrowser'
+rootProject.name='TBSBrowser'
